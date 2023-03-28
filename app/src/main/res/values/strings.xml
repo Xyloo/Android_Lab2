@@ -34,4 +34,5 @@
     <string name="buttonSuper">Super :)</string>
     <string name="buttonNiePoszlo">Tym razem mi nie poszło</string>
     <string name="buttonSrednia">Oblicz średnią</string>
+    <string name="srednia">Średnia ocen: %1$s</string>
 </resources>
