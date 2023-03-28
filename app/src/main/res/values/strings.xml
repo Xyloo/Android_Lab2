@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Lab_2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="app_label">Lab 2 Android 95408</string>
+    <string name="name">Imię:</string>
+    <string name="surname">Nazwisko:</string>
+    <string name="marks">Liczba ocen:</string>
+    <string name="name_hint">Wpisz imię</string>
+    <string name="surname_hint">Wpisz nazwisko</string>
+    <string name="marks_hint">Wpisz liczbę ocen (5–15)</string>
+    <string name="marks_button">Oceny</string>
+    <string name="mark2">2</string>
+    <string name="mark3">3</string>
+    <string name="mark4">4</string>
+    <string name="mark5">5</string>
+    <string-array name="subjects">
+        <item>Fiz.</item>
+        <item>Mat.</item>
+        <item>El.</item>
+        <item>TC</item>
+        <item>PP</item>
+        <item>Java</item>
+        <item>TPI</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>ASD</item>
+        <item>MN</item>
+        <item>PRiR</item>
+        <item>ISM</item>
+        <item>PN</item>
+        <item>NI</item>
+    </string-array>
+    <string name="buttonSuper">Super :)</string>
+    <string name="buttonNiePoszlo">Tym razem mi nie poszło</string>
+    <string name="buttonSrednia">Oblicz średnią</string>
+</resources>
